@@ -37,7 +37,7 @@ Do not combine separate membership requests in a single thread; one request per 
 
 ### Member Projects
 
-<ul id="voting-members">
+<ol id="voting-members">
     <li>
         <h4><a target="_blank" href="http://www.agavi.org/">Agavi</a></h4>
         David Zülke (<a href="http://twitter.com/dzuelke/">@dzuelke</a>)
@@ -243,4 +243,4 @@ Do not combine separate membership requests in a single thread; one request per 
         <h4><a target="_blank" href="http://www.zikula.org/">Zikula</a></h4>
         Shefik Macauley (<a href="http://twitter.com/shefik_info/">@shefik_info</a>)
     </li>
-</ul>
+</ol>
